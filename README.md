@@ -1,5 +1,3 @@
-<a href="http://www.sebastianglahn.com"><img src="http://www.sebastianglahn.com/images/portfolio/portfolio_education/github/education-github-1.png" alt=""></a>
-
 
 
 # React Education App
@@ -9,7 +7,7 @@ This is an education App built with React, Redux, Express.js and MongoDB. Additi
 
 ### Installation
 
-- Please clone this repository using `git clone https://github.com/storatus/react-education-app.git` first. There will be two package.json files, one for the server side and the other for the client side.
+- Please clone this repository using `git clone https://github.com/awesomedev08/React-Education-App.git` first. There will be two package.json files, one for the server side and the other for the client side.
 This is because server and client have to start at the same time. If you do not have NPM installed, please do so at `https://www.npmjs.com`. This is also a very good project for having a starter platform with react.js and redux.
 
 - In your directory after cloning please do the following:
@@ -70,24 +68,5 @@ As a student you can:
 
 This web app has been tested regirously and is fully responsive.
 
-## Examples
-
-<img src="http://www.sebastianglahn.com/images/portfolio/portfolio_education/github/education-github-2.png" width="500">
-
-<img src="http://www.sebastianglahn.com/images/portfolio/portfolio_education/github/education-github-3.png" height="300">
-
-<img src="http://www.sebastianglahn.com/images/portfolio/portfolio_education/github/education-github-4.png" height="300">
-
-<img src="http://www.sebastianglahn.com/images/portfolio/portfolio_education/github/education-github-5.png" height="300">
 
 
-## Support
-
-Please visit my <a href="http://www.sebastianglahn.com" target="_blank"> website </a>. I am always open for new projects and freelance work.
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2018 © <a href="http://www.sebastianglahn.com" target="_blank"> Sebastian Glahn </a>.
